@@ -1,0 +1,4 @@
+Aniket		20		1200		
+Avishkar		19		192300		
+Omkar		45		12300		
+Prathmesh		12		12000		
